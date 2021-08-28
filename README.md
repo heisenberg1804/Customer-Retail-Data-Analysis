@@ -21,6 +21,4 @@ Potential Analysis:
 
 2.	The customers can be segmented according to the Description of the transactions. The keywords can be extracted from the description and the number of customers can be distributed among them. Clusters of keywords  could be created and customers could be categorised according to the clusters.
 
-3.	Due to the high dimensionality of the data frame a 
-
-4.	Principal Component Analysis would be required followed by the K means clustering technique to categorise the data.
+3.	Due to the high dimensionality of the data frame a Principal Component Analysis would be required followed by the K means clustering technique to categorise the data.
