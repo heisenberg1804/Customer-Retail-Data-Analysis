@@ -14,3 +14,11 @@ Conclusion of my EDA:
 •	The company receives the highest number of orders at 12:00pm, this must be because of the lunch hours free time.
 
 •	The company gave away maximum no of free items on the month of November 2011, they also gave out 3-6 FREE items to customers each month (Except in June 2011) on average.
+
+
+Potential Analysis:
+1.	This dataset also requires a deeper analysis of the cancelled orders.
+
+2.	The customers can be segmented according to the Description of the transactions. The keywords can be extracted from the description and the number of customers can be distributed among them. Clusters of keywords  could be created and customers could be categorised according to the clusters.
+
+3.	Due to the high dimensionality of the data frame a Principal Component Analysis would be required followed by the K means clustering technique to categorise the data.
